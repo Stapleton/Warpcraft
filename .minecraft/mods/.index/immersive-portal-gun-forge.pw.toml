@@ -1,0 +1,13 @@
+filename = 'portalgun-1.19.2-5.0.0.jar'
+name = 'Immersive Portal Gun (Forge)'
+side = 'both'
+
+[download]
+hash = '9fed59a2ab1880a7719e9217523013cd20309f81'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4993339
+project-id = 955798

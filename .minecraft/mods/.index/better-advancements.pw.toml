@@ -1,0 +1,13 @@
+filename = 'BetterAdvancements-1.19.2-0.3.0.148.jar'
+name = 'Better Advancements'
+side = 'client'
+
+[download]
+hash = '978ad6041d935615a25a25e71fcdcd267293e0914faef62fc6dd91ebd028ff14eb56aeaf9d03f95d7f2d53d291281c1bf185291cb7ef82de542bcd4996934fe2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Q2OqKxDG/versions/Zmn6s0Hf/BetterAdvancements-1.19.2-0.3.0.148.jar'
+
+[update.modrinth]
+mod-id = 'Q2OqKxDG'
+version = 'Zmn6s0Hf'

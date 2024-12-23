@@ -1,0 +1,13 @@
+filename = 'cofh_core-1.19.2-10.3.1.48.jar'
+name = 'CoFH Core'
+side = 'both'
+
+[download]
+hash = 'a6a618fd7529b71c7fab4b696c0c2764e48ea8a9c9ece90c213699ad5874ed5812e9557d702889be3a556df899ef17af919cd76bb4a63958327ee04c72dad10d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OWSRM4vD/versions/ssRHxD6e/cofh_core-1.19.2-10.3.1.48.jar'
+
+[update.modrinth]
+mod-id = 'OWSRM4vD'
+version = 'ssRHxD6e'

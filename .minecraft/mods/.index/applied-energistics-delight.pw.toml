@@ -1,0 +1,13 @@
+filename = 'appliedenergisticsdelight-1.0.2.1.jar'
+name = 'Applied Energistics Delight'
+side = 'both'
+
+[download]
+hash = '767d6922d4d7de951b0eef320477e46c2d664aa8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5698526
+project-id = 1076340

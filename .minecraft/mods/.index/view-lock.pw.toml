@@ -1,0 +1,13 @@
+filename = 'viewlock-forge-1.19.x-1.20.x-1.1.0.jar'
+name = 'View Lock'
+side = 'client'
+
+[download]
+hash = '12653ef26b383c1faf64a9511f08991cc09f37448ee4495cc0cf046c00c1b72d4031dee95d96846a141908be50904ce61b78c061eda38db5574634ef5c12bfb2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UbUUN4FQ/versions/tzgUCOjP/viewlock-forge-1.19.x-1.20.x-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'UbUUN4FQ'
+version = 'tzgUCOjP'

@@ -1,0 +1,9 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.ReceivingLevelScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true
+  },
+  "hideBackground": {
+    "dev.emi.emi.screen.RecipeScreen": true
+  }
+}

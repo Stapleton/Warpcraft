@@ -1,0 +1,13 @@
+filename = 'TreeChop-1.19.2-forge-0.19.1.jar'
+name = "HT's TreeChop"
+side = 'both'
+
+[download]
+hash = '2f41b95ec92b2e5ed71833dfb95afde284bdae591a7a0e3a47e9a2dd40c6b4259d533592db2a00d020dc283b9e947909bf1ff309574c7a5ff51bf2e4fd4e660c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gHoB7SHO/versions/aOob2rJV/TreeChop-1.19.2-forge-0.19.1.jar'
+
+[update.modrinth]
+mod-id = 'gHoB7SHO'
+version = 'aOob2rJV'

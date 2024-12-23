@@ -1,0 +1,13 @@
+filename = 'ae2ao-8.1.1-1.19.jar'
+name = '[Forge] AE2 Additional Opportunity'
+side = 'both'
+
+[download]
+hash = 'ea4aa41ceb1c5a0c6bf665731d884af9d32d552c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4111352
+project-id = 475335

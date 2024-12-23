@@ -1,3 +1,3 @@
 @echo off
-cd .devtools
+cd ../_tools
 node ./UpdateVersion.js

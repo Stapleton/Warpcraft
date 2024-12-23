@@ -1,0 +1,13 @@
+filename = 'fusion-1.1.1-forge-mc1.19.2.jar'
+name = 'Fusion (Connected Textures)'
+side = 'both'
+
+[download]
+hash = 'c3b3f2331b29ca0e19434b093bf378ad5f80883e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5129280
+project-id = 854949

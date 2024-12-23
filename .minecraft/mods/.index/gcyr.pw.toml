@@ -1,0 +1,13 @@
+filename = 'gcyr-forge-1.19.2-0.1.1.b.jar'
+name = 'Gregicality Rocketry'
+side = 'both'
+
+[download]
+hash = '88b5a81aa3fe549009a60660efcfa3c081b85ac5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4859877
+project-id = 922713

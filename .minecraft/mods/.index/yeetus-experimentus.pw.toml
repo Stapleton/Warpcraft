@@ -1,0 +1,13 @@
+filename = 'yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar'
+name = 'Yeetus Experimentus'
+side = 'client'
+
+[download]
+hash = '712a4ac6bc411458818d324cf6f69af4269f98b11d6edc73b7d5cc355de45c70f94e2f7a45c868edcf497105e80860d8c06c77d998d7d10ff2545238ccfc9111'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HaaH232J/versions/YnVV0O6w/yeetusexperimentus-1.0.1-build.2%2Bmc1.19.1.jar'
+
+[update.modrinth]
+mod-id = 'HaaH232J'
+version = 'YnVV0O6w'

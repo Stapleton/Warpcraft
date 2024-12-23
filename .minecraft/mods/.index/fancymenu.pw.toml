@@ -1,0 +1,13 @@
+filename = 'fancymenu_forge_3.3.2_MC_1.19.2.jar'
+name = 'FancyMenu'
+side = 'both'
+
+[download]
+hash = 'df34591f4b4e0e723432e24d4ddd63998a61781c5a12c2bda697e1f6745b1b8b7a8ac47b616edcb04b3992cd9820caf98773b9d6ec88476d677b40cb35469e1f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Wq5SjeWM/versions/fVDgGT3D/fancymenu_forge_3.3.2_MC_1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'Wq5SjeWM'
+version = 'fVDgGT3D'

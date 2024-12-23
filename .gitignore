@@ -1,0 +1,82 @@
+# really big html file
+kubejs/documentation/*.html
+
+# respect user options by ignoring them lol
+options.txt
+servers.dat
+servers.dat_old
+servers.essential.dat
+config/craftify.toml
+config/iris.properties
+config/plasmovoice/client.toml
+*.zip.txt
+saves/**
+player_models/
+mods/.index
+.cpmproject
+emi.json
+config/emi.css
+screenshots/
+config/ae2/client.toml
+config/bluemap/maps/
+bluemap/
+
+# runtime generated garbage
+.fabric
+.mixin.out
+fancymenu_data
+irisUpdateInfo.json
+patchouli_data.json
+polymer-resourcepack.zip
+rhino.local.properties
+data
+crash-reports/
+*.log
+moddata/
+coremods/
+defaultconfigs/
+local/
+server-resource-packs/
+*.cpmproject
+usercache.json
+usernamecache.json
+
+# everything essential except the config file
+essential/avatar-cache
+essential/cosmetic-cache
+essential/libraries
+essential/loader
+essential/version.json
+essential/*.jar
+essential/*.meta
+essential/*.properties
+essential/image-cache
+essential/screenshot-cache
+essential/screenshot-metadata
+
+# Journeymap
+journeymap
+
+# fuck the logs
+logs
+
+# we speak english here
+ModTranslations
+
+# no Distant Horizons sharing
+Distant_Horizons_server_data
+
+# random configs that update their timestamp every launch
+config/everycomp-common.json
+config/everycomp-hazardous.properties
+config/fabric/indigo-renderer.properties
+config/indium-renderer.properties
+config/ironchests/defaults.properties
+config/powah.json5
+*/timestamp
+
+# thanks physics mod
+.physics_mod_cache/
+
+# blender capes?? remove this ignore when capes are added
+cloth_local/

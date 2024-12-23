@@ -1,0 +1,13 @@
+filename = 'farmingforblockheads-forge-1.19.2-11.3.5.jar'
+name = 'Farming for Blockheads'
+side = 'both'
+
+[download]
+hash = 'a19732999244a06f3189150c11782c98eb797126'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4749429
+project-id = 261924

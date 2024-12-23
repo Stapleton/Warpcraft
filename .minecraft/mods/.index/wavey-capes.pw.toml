@@ -1,0 +1,13 @@
+filename = 'waveycapes-forge-1.4.13-mc1.19.2.jar'
+name = 'Wavey Capes'
+side = 'client'
+
+[download]
+hash = '3cf0a419d7dc35b7debc2be0dd66c089789fe671059c404b8d071fa6e3779b793be37fa169f5fb75050f26f79b8627d2061d6d6a223759c7705c9f93c61b37d1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kYuIpRLv/versions/tkwBKtHd/waveycapes-forge-1.4.13-mc1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'kYuIpRLv'
+version = 'tkwBKtHd'

@@ -1,0 +1,13 @@
+filename = 'customcameraview-1.19-1.0.1.jar'
+name = "YDM's Custom Camera View"
+side = 'both'
+
+[download]
+hash = '24dea7443e85dedf991798aae54e5235549b289f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4384676
+project-id = 592245

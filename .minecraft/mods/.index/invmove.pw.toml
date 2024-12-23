@@ -1,0 +1,13 @@
+filename = 'InvMove-1.19-0.8.4-Forge.jar'
+name = 'InvMove'
+side = 'client'
+
+[download]
+hash = '241a5a6e6536f64793a731e976c950db89f6c363ad8abf5bbfbfd824ea5f5c5318795594d8fc9432d75d4ce2f7d68940a3169219ad16390c873e665e624d5777'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/REfW2AEX/versions/AE0sDDm3/InvMove-1.19-0.8.4-Forge.jar'
+
+[update.modrinth]
+mod-id = 'REfW2AEX'
+version = 'AE0sDDm3'

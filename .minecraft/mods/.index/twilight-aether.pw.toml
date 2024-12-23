@@ -1,0 +1,13 @@
+filename = 'twilightaether-1.19.2-1.0.0.jar'
+name = 'Twilight Aether'
+side = 'both'
+
+[download]
+hash = '7c094fb334d4cc4f308d165d00af3c126992d4ba'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5635494
+project-id = 1084673
